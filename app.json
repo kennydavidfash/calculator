@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Calculator Two",
+    "slug": "calculator-two",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f4ead7"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
